@@ -1,11 +1,11 @@
 ## Olá! Meu nome é Igor Costa
 
 - 🔭 Atualmente estou trabalhando fora da área
-- 🌱 Estou estudando python
+- 🌱 Estou estudando Python
 <div align="center">
   <a href="https://github.com/IgorCostaPro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCostaPro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCostaPro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCostaPro&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
